@@ -1,5 +1,5 @@
 # Orario
-Il progetto "orario" consente all'utente di potere accedere a diversi dati inerenti a professori e ai loro orari dal file OrarioTabellaGlobale.csv.
+Il progetto "Orario" consente all'utente di potere accedere a diversi dati inerenti a professori e ai loro orari dal file OrarioTabellaGlobale.csv.
 # Progetto
 Esso consiste in diverse funzioni, create prima facendo uso del "import csv", inserite nella cartella "funzioni con import csv", e poi senza utilizzarlo, anch'esse inserite nella loro cartella "funzioni senza csv", il tutto presente all'interno della cartella "Orario".
 # Test programma
